@@ -70,7 +70,7 @@ additional_markdown = """
 
 > Real-time visualization of patient vitals (heart rate, SpO₂, etc.) and anomaly alerts.
 
-![Dashboard Screenshot](assets/dashboard.png)  
+![Dashboard Screenshot](dashboard.jpeg)  
 _Above: Streamlit Dashboard showing live patient health metrics and alert triggers._
 
 ---
@@ -85,6 +85,8 @@ _Above: Streamlit Dashboard showing live patient health metrics and alert trigge
   - Instant email alert with patient ID & timestamp
   - Real-time update on the dashboard
   - Event logged to Cassandra or HDFS for storage
+
+  ![Dashboard Screenshot](dashboard.jpeg)  
 
 ---
 
@@ -122,7 +124,8 @@ This system has been validated using:
 Developed by:
 
 - **Neeraj Kumar Kannoujiya** – MSE2024003  
-- **Anshuman Moharana** – MDE2024006  
+- **Anshuman Moharana** – MDE2024006
+- **Tanmesh Singh** – MSE2024016  
 _M.Tech (IT), Indian Institute of Information Technology, Allahabad (2024–2026)_
 
 ### 🧑‍🏫 Supervised by:
