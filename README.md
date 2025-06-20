@@ -86,7 +86,7 @@ _Above: Streamlit Dashboard showing live patient health metrics and alert trigge
   - Real-time update on the dashboard
   - Event logged to Cassandra or HDFS for storage
 
-  ![Dashboard Screenshot](dashboard.jpeg)  
+  ![Dashboard Screenshot](alert.png)  
 
 ---
 
