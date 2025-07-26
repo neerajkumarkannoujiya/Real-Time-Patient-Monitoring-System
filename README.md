@@ -125,7 +125,6 @@ Developed by:
 
 - **Neeraj Kumar Kannoujiya** – MSE2024003  
 - **Anshuman Moharana** – MDE2024006
-- **Tanmesh Singh** – MSE2024016  
 _M.Tech (IT), Indian Institute of Information Technology, Allahabad (2024–2026)_
 
 ### 🧑‍🏫 Supervised by:
