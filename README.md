@@ -124,8 +124,7 @@ _M.Tech (IT), Indian Institute of Information Technology, Allahabad (2024–2026
 ---
 
 ## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).  
+  
 Feel free to fork, enhance, and contribute!
 """
 
