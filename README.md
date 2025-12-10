@@ -88,15 +88,6 @@ _Above: Streamlit Dashboard showing live patient health metrics and alert trigge
 
   ![Dashboard Screenshot](alert.png)  
 
----
-
-## 🧪 Dataset Used
-
-This system has been validated using:
-
-- [MIT-BIH Arrhythmia Dataset](https://physionet.org/content/mitdb/1.0.0/)
-- [MIMIC III ICU Dataset](https://physionet.org/content/mimiciii/1.4/)
-- [Simulated ECG Dataset - Kaggle](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 
 ---
 
